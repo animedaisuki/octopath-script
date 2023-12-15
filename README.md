@@ -29,12 +29,12 @@ This guide provides steps on how to install and run a specific script on the int
 1. **Open Autojs**
 - Adjust the relevant setting options.
 2. **Import js Files**
-- In the main interface of Autojs, click the plus icon in the bottom right corner to import octopath-script.js and any other scripts needed.
+- In the main interface of Autojs, click the plus icon in the bottom right corner to import octopathAutoBattle.js and any other scripts needed.
 
 ## Running the Script
-1. **Execute octopath-script.js**
+1. **Execute octopathAutoBattle.js**
 - In the game, go to a location where you can encounter wild monsters.
-- Execute octopath-script.js once via the Autojs overlay window.
+- Execute octopathAutoBattle.js once via the Autojs overlay window.
 2. **Run the Script**
 - According to the script instructions, go to the specific location and then start the script.
 
