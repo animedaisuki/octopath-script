@@ -17,7 +17,7 @@ This guide provides steps on how to install and run a specific script on the int
 - Install ZArchiver for file management.
 
 5. **Import Required Files**
-- Use the multimedia manager to import from Windows octopath-script.js, all images within the checkPic folder, and any other scripts required for execution.
+- Use the multimedia manager to import from Windows octopathAutoBattle.js, all images within the checkPic folder, and any other scripts required for execution.
 
 ## File Management
 1. **Create a Folder**
